@@ -6,6 +6,8 @@ authors = ["feizheng <1290657123@qq.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+requests = "^2.27.1"
+jsw-nx = "^1.0.29"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

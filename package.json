@@ -4,6 +4,7 @@
   "private": true,
   "description": "Unofficial temp scripts.",
   "scripts": {
+    "homework_submit_failed": "python3 ./unofficial_scripts/homework_submit_failed.py"
   },
   "repository": {
     "type": "git",
