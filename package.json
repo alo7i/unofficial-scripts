@@ -1,0 +1,19 @@
+{
+  "name": "unofficial-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Unofficial temp scripts.",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alo7i/unofficial-scripts.git"
+  },
+  "keywords": [],
+  "author": "afeiship",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alo7i/unofficial-scripts/issues"
+  },
+  "homepage": "https://github.com/alo7i/unofficial-scripts#readme"
+}
